@@ -1,5 +1,3 @@
-# diffusion-storytelling
-
 # Text-to-Image Generation for Personalized Story Illustration
 ### Curator: Neudachina Eva
 ### Students: Sedov Sergey, Kiselev Maksim
